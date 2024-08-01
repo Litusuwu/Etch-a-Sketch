@@ -256,6 +256,8 @@ header{
 }
 .tit{
     font-family: "Playwrite AR", cursive;
+    margin-top: 25px;
+    margin-bottom: 10px;
     font-weight: 600;
     font-size: 40px;
     display: flex;
