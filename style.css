@@ -129,7 +129,7 @@ header{
     font-weight: 600;
     font-size: 40px;
 }
-@import url('https://fonts.googleapis.com/css2?family=Playwrite+AR:wght@100..400&display=swap');
+
 html, body{
     display: flex;
     flex-direction: column;
@@ -258,4 +258,9 @@ header{
     font-family: "Playwrite AR", cursive;
     font-weight: 600;
     font-size: 40px;
+    display: flex;
+    flex: 1;
+    width: 70%;
+    justify-content: center;
+    align-items: center;
 }
